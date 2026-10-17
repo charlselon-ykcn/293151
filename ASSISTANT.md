@@ -3,7 +3,7 @@
 Support stories and contextual explanations with vivid colors, character assets and narrative animation.
 
 Template & full download: https://motiongit.com/@adunext/template-05-native-portrait
-Version: 2.6.0
+Version: 2.6.1
 Download available; current terms are listed with the package.
 
 ## Technical reference
