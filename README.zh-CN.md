@@ -4,7 +4,7 @@
 
 用鲜明配色、角色素材与叙事动效配合口播，适合故事、观点和情境解释。
 
-**9:16 · 1080 × 1920 · 60 fps · v2.7.8** · [@adunext](https://motiongit.com/@adunext) · [English](README.md)
+**9:16 · 1080 × 1920 · 60 fps · v2.7.9** · [@adunext](https://motiongit.com/@adunext) · [English](README.md)
 
 **[模板详情、完整 .motion 与 Demo](https://motiongit.com/@adunext/template-05-native-portrait)**
 https://motiongit.com/@adunext/template-05-native-portrait
